@@ -1,5 +1,5 @@
 
-This is a write-up of the challenges I've solved and uploaded (except for no. 3) during my participation in ecsc25 polish qualifications. The challenges can be found here: https://hack.cert.pl/challenges 
+This is a write-up of the challenges I've solved and uploaded (except for no. 3 and no. 10) during my participation in ecsc25 polish qualifications. The challenges can be found here: https://hack.cert.pl/challenges 
 
 ## 1. Web
 
