@@ -14,8 +14,6 @@ SQL injection: `a' OR 1=1--`
 
 Tutorial challenge.
 
-podatność: w użytym szyfrze można zgadnąć klucz jeżeli ma się kilka tekstów zaszyfrowanych z tym samym kluczem
-
 **Source:**
 
 ```python
